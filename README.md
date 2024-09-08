@@ -22,7 +22,7 @@ This project allows users to draw digits in a designated box, and the integrated
 ## How to Use
 1. Clone the repository to your local machine.
     ```
-   git clone https://github.com/meabhi2206/Real-Time-Digit-Recognition-System.git
+   git clone https://github.com/kashishg0004/Offline-Digit-Recognition-System.git
    ```
 2. Run the dicpy.py file
    ```python -m streamlit run dicpy.py```
@@ -40,9 +40,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 Contributions to this project are welcome. If you want to make improvements or add new features, feel free to create a pull request.
 
 ## About
-Developed by Abhishek.
+Developed by Kashish.
 
 ## Support or Contact
-If you have any questions or need assistance, please contact [abhishekr2206@gmail.com].
+If you have any questions or need assistance, please contact [kashishg0004@gmail.com].
 
 
